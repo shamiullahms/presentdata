@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303F9F</color>
+    <color name="colorPrimaryVariant">#3F51B5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#FF5722</color>
+    <color name="colorSecondaryVariant">#E07422</color>
+    <color name="colorOnSecondary">#FF000000</color>
+
+    <color name="teal_2002">#43D6E1</color>
+    <color name="teal_7002">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorGrey">#8C8A8A</color>
+</resources>
